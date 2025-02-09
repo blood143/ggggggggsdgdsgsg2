@@ -1,0 +1,9 @@
+body {
+    font-family: sans-serif;
+}
+h1 {
+    text-align: center;border: 3px solid blue;background-color: blue;color:aliceblue;border-radius: 7px;
+}
+footer{
+    width:15px;height:10px;
+}
